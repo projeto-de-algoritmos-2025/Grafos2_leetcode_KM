@@ -2,7 +2,7 @@
 
 Repositório criado para a disciplina **Projeto de Algoritmos**, com o objetivo de resolver três questões de nível difícil sobre **grafos** da plataforma [LeetCode](https://leetcode.com/).
 
- Link para video Resolução dos exercicios : 
+ Link para video Resolução dos exercicios : https://youtu.be/CXGzSPc6WDg
 
 ## 👥 Integrantes
 - Mylena Trindade de Mendonça
